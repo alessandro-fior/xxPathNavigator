@@ -16,3 +16,10 @@ C:\Users\Kaushal\Downloads\Roehm_Mandayam_HW1\WindowsFormsApplication1\WindowsFo
 C:\Users\Kaushal\Downloads\Roehm_Mandayam_HW1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Kaushal\Downloads\Roehm_Mandayam_HW1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Kaushal\Downloads\Roehm_Mandayam_HW1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\c\xxPathNavigator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

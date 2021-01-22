@@ -43,66 +43,59 @@
             // 
             // XMLfile
             // 
-            this.XMLfile.Location = new System.Drawing.Point(64, 34);
-            this.XMLfile.Margin = new System.Windows.Forms.Padding(2);
+            this.XMLfile.Location = new System.Drawing.Point(96, 52);
             this.XMLfile.Name = "XMLfile";
-            this.XMLfile.Size = new System.Drawing.Size(233, 20);
+            this.XMLfile.Size = new System.Drawing.Size(348, 26);
             this.XMLfile.TabIndex = 0;
-           // this.XMLfile.TextChanged += new System.EventHandler(this.XMLfile_TextChanged);
+            this.XMLfile.Text = "C:\\CUT\\CutTicket.CTX.xml";
             // 
             // outputbox
             // 
-            this.outputbox.Location = new System.Drawing.Point(421, 155);
-            this.outputbox.Margin = new System.Windows.Forms.Padding(2);
+            this.outputbox.Location = new System.Drawing.Point(632, 238);
             this.outputbox.Multiline = true;
             this.outputbox.Name = "outputbox";
-            this.outputbox.Size = new System.Drawing.Size(299, 221);
+            this.outputbox.Size = new System.Drawing.Size(446, 338);
             this.outputbox.TabIndex = 1;
             // 
             // xpathinput
             // 
-            this.xpathinput.Location = new System.Drawing.Point(421, 34);
-            this.xpathinput.Margin = new System.Windows.Forms.Padding(2);
+            this.xpathinput.Location = new System.Drawing.Point(632, 52);
             this.xpathinput.Name = "xpathinput";
-            this.xpathinput.Size = new System.Drawing.Size(233, 20);
+            this.xpathinput.Size = new System.Drawing.Size(348, 26);
             this.xpathinput.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(64, 11);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(96, 17);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(140, 13);
+            this.label1.Size = new System.Drawing.Size(209, 20);
             this.label1.TabIndex = 3;
             this.label1.Text = "File path for XML document:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(418, 11);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(627, 17);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(87, 13);
+            this.label2.Size = new System.Drawing.Size(132, 20);
             this.label2.TabIndex = 4;
             this.label2.Text = "Xpath statement:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(418, 125);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(627, 192);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(42, 13);
+            this.label3.Size = new System.Drawing.Size(62, 20);
             this.label3.TabIndex = 5;
             this.label3.Text = "Output:";
             // 
             // submit
             // 
-            this.submit.Location = new System.Drawing.Point(664, 33);
-            this.submit.Margin = new System.Windows.Forms.Padding(2);
+            this.submit.Location = new System.Drawing.Point(996, 51);
             this.submit.Name = "submit";
-            this.submit.Size = new System.Drawing.Size(56, 21);
+            this.submit.Size = new System.Drawing.Size(84, 32);
             this.submit.TabIndex = 6;
             this.submit.Text = "Submit";
             this.submit.UseVisualStyleBackColor = true;
@@ -110,29 +103,26 @@
             // 
             // originalXML
             // 
-            this.originalXML.Location = new System.Drawing.Point(64, 86);
-            this.originalXML.Margin = new System.Windows.Forms.Padding(2);
+            this.originalXML.Location = new System.Drawing.Point(96, 132);
             this.originalXML.Multiline = true;
             this.originalXML.Name = "originalXML";
-            this.originalXML.Size = new System.Drawing.Size(293, 290);
+            this.originalXML.Size = new System.Drawing.Size(438, 444);
             this.originalXML.TabIndex = 7;
             // 
             // original
             // 
             this.original.AutoSize = true;
-            this.original.Location = new System.Drawing.Point(66, 62);
-            this.original.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.original.Location = new System.Drawing.Point(99, 95);
             this.original.Name = "original";
-            this.original.Size = new System.Drawing.Size(67, 13);
+            this.original.Size = new System.Drawing.Size(99, 20);
             this.original.TabIndex = 8;
             this.original.Text = "Original XML";
             // 
             // open
             // 
-            this.open.Location = new System.Drawing.Point(301, 33);
-            this.open.Margin = new System.Windows.Forms.Padding(2);
+            this.open.Location = new System.Drawing.Point(452, 51);
             this.open.Name = "open";
-            this.open.Size = new System.Drawing.Size(56, 21);
+            this.open.Size = new System.Drawing.Size(84, 32);
             this.open.TabIndex = 9;
             this.open.Text = "Open";
             this.open.UseVisualStyleBackColor = true;
@@ -141,17 +131,18 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(421, 76);
+            this.comboBox1.Location = new System.Drawing.Point(632, 117);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(233, 21);
+            this.comboBox1.Size = new System.Drawing.Size(348, 28);
             this.comboBox1.TabIndex = 10;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 437);
+            this.ClientSize = new System.Drawing.Size(1176, 672);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.open);
             this.Controls.Add(this.original);
@@ -163,9 +154,9 @@
             this.Controls.Add(this.xpathinput);
             this.Controls.Add(this.outputbox);
             this.Controls.Add(this.XMLfile);
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
